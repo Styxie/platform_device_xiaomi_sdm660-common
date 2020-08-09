@@ -479,10 +479,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_BOOT_JARS += \
     WfdCommon
 
-# USB HAL
-PRODUCT_PACKAGES += \
-    android.hardware.usb@1.0-service.basic
-
 # Offline Charging
 PRODUCT_PACKAGES += \
     charger_res_images
